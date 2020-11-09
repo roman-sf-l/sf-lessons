@@ -7,8 +7,6 @@ import java.util.stream.IntStream;
  */
 public class SomeObject {
 
-    public SomeObject(){}
-
     /**
      * Return a sum of two digits
      * @param one a first digit
